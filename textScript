@@ -1,0 +1,9 @@
+Script started on 2021-06-07 17:18:40-05:00
+]777;notify;Command completed;neofetch]0;thansknecht@localhost:~/TestRepo]7;file://localhost.localdomain/home/thansknecht/TestRepo[thansknecht@localhost TestRepo]$ pwd
+/home/thansknecht/TestRepo
+]777;notify;Command completed;pwd]0;thansknecht@localhost:~/TestRepo]7;file://localhost.localdomain/home/thansknecht/TestRepo[thansknecht@localhost TestRepo]$ ls
+Text1.txt  textScript
+]777;notify;Command completed;ls]0;thansknecht@localhost:~/TestRepo]7;file://localhost.localdomain/home/thansknecht/TestRepo[thansknecht@localhost TestRepo]$ scr[K[K[Kexit
+exit
+
+Script done on 2021-06-07 17:18:50-05:00
